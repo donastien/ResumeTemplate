@@ -30,13 +30,9 @@ Je me définis par ma polyvalence, ma rigueur et je me forme constamment sur des
           </div>
           <div className='row block-large-1-2 block-tab-full s-about__process item-list'>
             <div className='column item item-process' data-aos='fade-up'>
-              <h3 className='item-title'>Define</h3>
+              <h3 className='item-title'>Premièrement</h3>
               <p>
-                Deserunt rerum perspiciatis quaerat quam numquam assumenda
-                neque. Quis dolores totam voluptatibus molestiae non. Quae
-                exercitationem cum numquam repudiandae. Beatae eum quae. Ut ex
-                unde rem quod ipsum consequatur. blanditiis temporibus pariatur
-                voluptatibus molestiae.
+                🛡️ Dans un premier temps nous verrons ensemble vos fonctionnalités attendues pour votre application avec la réalisation si besoin de maquette.
               </p>
             </div>
             <div className='column item item-process' data-aos='fade-up'>
