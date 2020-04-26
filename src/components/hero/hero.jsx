@@ -13,7 +13,7 @@ export default class Hero extends Component {
               <div className='s-hero__content-about'>
                 <p>
                   Développeur Web FullStack, <br />
-                  Expert en ReactJS,
+                Expert en ReactJS & NodeJS,
                   <br />
                   Je vous accompagne dans le processus de création ou de mise à
                   jour de vos applications web sur mesure.
