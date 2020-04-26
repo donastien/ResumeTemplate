@@ -17,14 +17,11 @@ export default class About extends Component {
             </div>
             <div className='column large-6 w-900-stack s-about__intro-text'>
               <h1 className='display-1' data-aos='fade-up'>
-                Flare is a branding agency based in somewhere. We design
-                thoughtful digital experiences and beautiful brand aesthetics.
+                Travaillez avec moi.
               </h1>
               <p className='lead' data-aos='fade-up'>
-                Non amet venenatis dolor id pellentesque mattis erat. Fermentum
-                nunc, tincidunt sit elit amet scelerisque. Ac quisque quis eu
-                nibh rutrum risus tellus egestas neque. Vestibulum ante ipsum
-                primis in faucibus orci luctus et.
+                🙇🏾‍ Passionné par l’informatique, après un BTS en développement j'ai décide de me spécialiser dans le développement web. Aujourd'hui je vous propose mon expertise, de la création à sa mise en production mais également dans la rédaction de cahier des charges et dans la réflexion des besoins utilisateurs.
+Je me définis par ma polyvalence, ma rigueur et je me forme constamment sur des nouvelles technologies.
               </p>
             </div>
             <div className='column large-6 w-900-stack s-about__photo-block'>
